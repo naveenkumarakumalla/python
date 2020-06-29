@@ -4,8 +4,8 @@ print(f"i is {i}")
 f = 2.8
 print(f"f is {f}")
 
-b = true
+b = False
 print(f"b is {b}")
 
-n = none
+n = None
 print(f"n is {n}")
